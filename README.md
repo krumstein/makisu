@@ -1,5 +1,5 @@
-
 ![Makisu](assets/logo/Lockup.svg "Makisu Logo")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkrumstein%2Fmakisu.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkrumstein%2Fmakisu?ref=badge_shield)
 
 [![Build Status](https://travis-ci.com/uber/makisu.svg?branch=master)](https://travis-ci.com/uber/makisu)
 [![GoReportCard](https://goreportcard.com/badge/github.com/uber/makisu)](https://goreportcard.com/report/github.com/uber/makisu)
@@ -196,3 +196,7 @@ Please check out our [guide](docs/CONTRIBUTING.md).
 # Contact
 
 To contact us, please join our [Slack channel](https://join.slack.com/t/uber-container-tools/shared_invite/enQtNTIxODAwMDEzNjM1LWIwYzIxNmUwOGY3MmVmM2MxYTczOTQ4ZDU0YjAxMTA0NDgyNzdlZTA4ZWVkZGNlMDUzZDA1ZTJiZTQ4ZDY0YTM).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkrumstein%2Fmakisu.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkrumstein%2Fmakisu?ref=badge_large)
